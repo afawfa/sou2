@@ -46,6 +46,7 @@ var se_list_preinstall = {
         url: "https://www.sogou.com/search",
         name: "q",
         img: "https://pic.miiiku.com/file/imiiiku/1752643266134_favicon.ico",
+    }
 };
 
 // 主页快捷方式【预设】

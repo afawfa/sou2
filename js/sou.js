@@ -40,13 +40,6 @@ var se_list_preinstall = {
         name: "text",
         img: "https://pic.miiiku.com/file/imiiiku/1752643105069_FaxTmrhW.png",
     },
-    '5': {
-        id: 5,
-        title: "sougou",
-        url: "https://www.sogou.com/web",
-        name: "query",
-        img: "https://pic.miiiku.com/file/imiiiku/1752643266134_favicon.ico",
-    },
 };
 
 // 主页快捷方式【预设】

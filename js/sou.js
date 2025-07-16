@@ -96,7 +96,7 @@ var quick_list_preinstall = {
     '8': {
         title: "cloudflare",
         url: "https://www.cloudflare.com/",
-        img: "https://pic.miiiku.com/file/imiiiku/1752650056722_favicon (1).ico",
+        img: "https://pic.miiiku.com/file/imiiiku/1752652448371_1.ico",
         explain: "cloudflare",
     },
 };

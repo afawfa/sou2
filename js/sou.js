@@ -81,18 +81,6 @@ var quick_list_preinstall = {
         img: "https://pic.miiiku.com/file/imiiiku/1752067013313_042b5382982a778b31f20687b2332a68-1.png",
         explain: "A cute and modern blog",
     },
-    '6': {
-        title: "Steam",
-        url: "https://store.steampowered.com/",
-        img: "./icon/steam.ico",
-        explain: "Steam",
-    },
-    '7': {
-        title: "GitHub",
-        url: "https://github.com/",
-        img: "./icon/github.ico",
-        explain: "GitHub",
-    },
 };
 
 // 主题方案【预设】

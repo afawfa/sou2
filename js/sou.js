@@ -99,6 +99,12 @@ var quick_list_preinstall = {
         img: "https://pic.miiiku.com/file/imiiiku/1752652448371_1.ico",
         explain: "cloudflare",
     },
+    '9': {
+        title: "google",
+        trl: "https://www.google.com/",
+        img: "https://pic.miiiku.com/file/imiiiku/1752652951860_favicon.ico",
+        explain: "google一下，就知道了",
+    },
 };
 
 // 主题方案【预设】

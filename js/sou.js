@@ -73,7 +73,7 @@ var quick_list_preinstall = {
     '4': {
         title: "链接缩短",
         url: "https://code.miiiku.com/",
-        img: "https://code.miiiku.com/",
+        img: "https://link.miiiku.com/images/icons/generic-blog.svg",
         explain: "sink",
     },
     '5': {

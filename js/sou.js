@@ -97,7 +97,7 @@ var quick_list_preinstall = {
     '7': {
         title: "图床",
         url: "https://pic.miiiku.com/",
-        img: "https://link.miiiku.com/images/icons/generic-map.svg",
+        img: "https://pic.miiiku.com/file/imiiiku/1752661661129_2.png",
         explain: "图床",
     },
     '8': {

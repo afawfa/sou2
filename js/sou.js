@@ -53,10 +53,10 @@ var se_list_preinstall = {
 // 主页快捷方式【预设】
 var quick_list_preinstall = {
     '1': {
-        title: "哔哩哔哩",
-        url: "https://www.bilibili.com/",
-        img: "./icon/bilibili.png",
-        explain: "哔哩哔哩 (゜-゜)つロ 干杯~",
+        title: "云盘",
+        url: "https://i.miiiku.com/",
+        img: "https://link.miiiku.com/images/icons/generic-cloud.svg",
+        explain: "nextcloud云盘",
     },
     '2': {
         title: "GitHub",

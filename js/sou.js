@@ -33,6 +33,20 @@ var se_list_preinstall = {
         name: "q",
         img: "./icon/bing.ico",
     },
+     '4': {
+        id: 4,
+        title: "yandex",
+        url: "https://yandex.com/search",
+        name: "text",
+        img: "https://pic.miiiku.com/file/imiiiku/1752643105069_FaxTmrhW.png",
+    },
+        '5': {
+        id: 5,
+        title: "sougou",
+        url: "https://www.sogou.com/web",
+        name: "query",
+        img: "https://pic.miiiku.com/file/imiiiku/1752643266134_favicon.ico",
+    },
 };
 
 // 主页快捷方式【预设】
@@ -78,18 +92,6 @@ var quick_list_preinstall = {
         url: "https://github.com/",
         img: "./icon/github.ico",
         explain: "GitHub",
-    },
-    '8': {
-        title: "cloudflare",
-        url: "https://www.cloudflare.com/",
-        img: "https://pic.miiiku.com/file/imiiiku/1752652448371_1.ico",
-        explain: "cloudflare",
-    },
-    '9': {
-        title: "google",
-        trl: "https://www.google.com/",
-        img: "https://pic.miiiku.com/file/imiiiku/1752652951860_favicon.ico",
-        explain: "google一下，就知道了",
     },
 };
 

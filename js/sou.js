@@ -47,7 +47,13 @@ var se_list_preinstall = {
         name: "query",
         img: "https://pic.miiiku.com/file/imiiiku/1752643266134_favicon.ico",
     },
-    
+    '6': {
+        id: 6,
+        title: "yahoo",
+        url: "https://search.yahoo.com/search",
+        name: "p",
+        img: "https://pic.miiiku.com/file/imiiiku/1752650706441_favicon (2).ico".
+    },
 };
 
 // 主页快捷方式【预设】
@@ -81,6 +87,24 @@ var quick_list_preinstall = {
         url: "https://miiiku.com/",
         img: "https://pic.miiiku.com/file/imiiiku/1752067013313_042b5382982a778b31f20687b2332a68-1.png",
         explain: "A cute and modern blog",
+    },
+    '6': {
+        title: "Steam",
+        url: "https://store.steampowered.com/",
+        img: "./icon/steam.ico",
+        explain: "Steam",
+    },
+    '7': {
+        title: "GitHub",
+        url: "https://github.com/",
+        img: "./icon/github.ico",
+        explain: "GitHub",
+    },
+    '8': {
+        title: "cloudflare",
+        url: "https://www.cloudflare.com/",
+        img: "https://pic.miiiku.com/file/imiiiku/1752650056722_favicon (1).ico",
+        explain: "cloudflare",
     },
 };
 

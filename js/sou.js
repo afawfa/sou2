@@ -33,6 +33,20 @@ var se_list_preinstall = {
         name: "q",
         img: "./icon/bing.ico",
     },
+    '4': {
+        id: 4,
+        title: "yandex",
+        url: "https://yandex.com/search",
+        name: "text",
+        img: "https://pic.miiiku.com/file/imiiiku/1752643105069_FaxTmrhW.png",
+    },
+    '5': {
+        id: 5,
+        title: "sougou",
+        url: "https://www.sogou.com/web",
+        name: "query",
+        img: "https://pic.miiiku.com/file/imiiiku/1752643266134_favicon.ico",
+    },
 };
 
 // 主页快捷方式【预设】
@@ -66,6 +80,30 @@ var quick_list_preinstall = {
         url: "https://www.cloudflare.com/",
         img: "https://pic.miiiku.com/file/imiiiku/1752652448371_1.ico",
         explain: "cloudflare",
+    },
+    '6': {
+        title: "云盘",
+        url: "https://i.miiiku.com/",
+        img: "https://link.miiiku.com/images/icons/generic-cloud.svg",
+        explain: "nextcloud云盘",
+    },
+    '7': {
+        title: "图床",
+        url: "https://pic.miiiku.com/",
+        img: "https://link.miiiku.com/images/icons/generic-map.svg",
+        explain: "图床",
+    },
+    '8': {
+        title: "链接缩短",
+        url: "https://code.miiiku.com/",
+        img: "https://link.miiiku.com/images/icons/generic-blog.svg",
+        explain: "sink",
+    },
+    '9': {
+        title: "博客",
+        url: "https://miiiku.com/",
+        img: "https://pic.miiiku.com/file/imiiiku/1752067013313_042b5382982a778b31f20687b2332a68-1.png",
+        explain: "A cute and modern blog",
     },
 };
 

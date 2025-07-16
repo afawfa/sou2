@@ -38,10 +38,10 @@ var se_list_preinstall = {
 // 主页快捷方式【预设】
 var quick_list_preinstall = {
     '1': {
-        title: "云盘",
-        url: "https://i.miiiku.com/",
-        img: "https://link.miiiku.com/images/icons/generic-cloud.svg",
-        explain: "nextcloud云盘",
+        title: "GitHub",
+        url: "https://github.com/",
+        img: "./icon/github.ico",
+        explain: "GitHub",
     },
     '2': {
         title: "链接树",
@@ -50,22 +50,22 @@ var quick_list_preinstall = {
         explain: "Linktree",
     },
     '3': {
-        title: "图床",
-        url: "https://pic.miiiku.com/",
-        img: "https://link.miiiku.com/images/icons/generic-map.svg",
-        explain: "图床",
+        title: "Steam",
+        url: "https://store.steampowered.com/",
+        img: "./icon/steam.ico",
+        explain: "Steam",
     },
     '4': {
-        title: "链接缩短",
-        url: "https://code.miiiku.com/",
-        img: "https://link.miiiku.com/images/icons/generic-blog.svg",
-        explain: "sink",
+        title: "google",
+        trl: "https://www.google.com/",
+        img: "https://pic.miiiku.com/file/imiiiku/1752652951860_favicon.ico",
+        explain: "google一下，就知道了",
     },
     '5': {
-        title: "博客",
-        url: "https://miiiku.com/",
-        img: "https://pic.miiiku.com/file/imiiiku/1752067013313_042b5382982a778b31f20687b2332a68-1.png",
-        explain: "A cute and modern blog",
+        title: "cloudflare",
+        url: "https://www.cloudflare.com/",
+        img: "https://pic.miiiku.com/file/imiiiku/1752652448371_1.ico",
+        explain: "cloudflare",
     },
 };
 

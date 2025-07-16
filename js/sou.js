@@ -47,6 +47,13 @@ var se_list_preinstall = {
         name: "query",
         img: "https://pic.miiiku.com/file/imiiiku/1752643266134_favicon.ico",
     },
+    '6': {
+        id: 6,
+        title: "yahoo",
+        url: "https://search.yahoo.com/search",
+        name: "p",
+        img: "https://pic.miiiku.com/file/imiiiku/1752658590428_1.ico",
+    },
 };
 
 // 主页快捷方式【预设】

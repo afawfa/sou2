@@ -37,14 +37,14 @@ var se_list_preinstall = {
         id: 4,
         title: "yandex",
         url: "https://yandex.com/search",
-        name: "q",
+        name: "text",
         img: "https://pic.miiiku.com/file/imiiiku/1752643105069_FaxTmrhW.png",
     },
     '5': {
         id: 5,
         title: "sougou",
-        url: "https://www.sogou.com/search",
-        name: "q",
+        url: "https://www.sogou.com/web",
+        name: "query",
         img: "https://pic.miiiku.com/file/imiiiku/1752643266134_favicon.ico",
     },
     

@@ -80,7 +80,7 @@ var quick_list_preinstall = {
         title: "google",
         trl: "https://www.google.com/",
         img: "https://pic.miiiku.com/file/imiiiku/1752652951860_favicon.ico",
-        explain: "google一下，就知道了",
+        explain: "google",
     },
     '5': {
         title: "cloudflare",

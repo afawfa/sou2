@@ -78,7 +78,7 @@ var quick_list_preinstall = {
     },
     '4': {
         title: "google",
-        trl: "https://www.google.com/",
+        url: "https://www.google.com/",
         img: "https://pic.miiiku.com/file/imiiiku/1752652951860_favicon.ico",
         explain: "google",
     },
